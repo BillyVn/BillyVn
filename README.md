@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BillyVn
+- 👀 I’m interested in healthcare industry 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on build risk and incident management application 
+- 📫 How to reach me Instagram @Theanh.pdf
